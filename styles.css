@@ -113,6 +113,7 @@ body {
     padding: 2rem;
     text-align: center;
     box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.6);
+    border-radius: 1rem;
 }
 
 .thank-you-message {
